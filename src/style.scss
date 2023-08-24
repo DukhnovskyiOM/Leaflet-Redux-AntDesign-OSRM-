@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+    .wrapper{
+        height: 100vh;
+
+        .sider{
+            padding: 10px;
+        }
+
+        h2{
+            color: white;
+        }
+
+        .content{
+
+            .leaflet-container{
+                height: 100vh;
+              }
+        }
+
+        .footer{
+            text-align: center;
+        }
+
+    }
+}
